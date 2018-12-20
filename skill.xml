@@ -1,0 +1,11 @@
+<context>
+  <input pattern="* привет* *">
+    <output value="Привет"/>
+  </input>
+    <input pattern="* игры* *">
+    <output value="Для xbox one и windows 10 вышли на данный момент две части игры Fly Die Repeat и Rock Box Run. Готовится в выходу Hyposphere Rebirth"/>
+  </input>
+    <input pattern="* привет* *">
+    <output value="Привет"/>
+  </input>
+</context>
